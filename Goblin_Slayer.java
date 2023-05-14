@@ -1,4 +1,3 @@
-// Hi
 // make a text-based game where a user can pickup a sword
 import org.apache.commons.lang3.ArrayUtils;
 import java.util.Scanner;
